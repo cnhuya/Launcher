@@ -117,8 +117,9 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml" />
-    <Reference Include="trading simulator">
-      <HintPath>..\..\trading simulator\trading simulator\bin\Debug\trading simulator.dll</HintPath>
+    <Reference Include="trading simulator, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\ddl\trading simulator.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
