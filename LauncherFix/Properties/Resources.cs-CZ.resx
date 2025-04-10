@@ -145,4 +145,10 @@
   <data name="CloseLauncherOnAPPStartMSG" xml:space="preserve">
     <value>Vypnout launcher při zapnutí jiné aplikace</value>
   </data>
+  <data name="codeapp" xml:space="preserve">
+    <value>Objevte výkonnou a přitom intuitivní aplikaci navrženou tak, aby vám dala větší kontrolu. Snadno generujte chytré smlouvy kompatibilní s EVM kryptoměnami, včetně přizpůsobitelných funkcí, jako jsou poplatky za převod. Alternativně si vytvořte vlastní on-chain databáze MoveVM pro různé aplikace – od správy osobních dat až po bezpečné, decentralizované úložiště jakéhokoli typu informací.</value>
+  </data>
+  <data name="tradingapp" xml:space="preserve">
+    <value>Zajímáš se o obchodování s digitálními aktivy? Vytvoř si vlastní obchodní strategii typu Grid nebo DCA a okamžitě ji začni testovat v reálném čase. Naše speciálně přizpůsobená aplikace ti umožní detailní nastavení strategie přesně podle tvých potřeb — od parametrů vstupu až po správu rizik. Získej plnou kontrolu nad svými obchody a využij potenciál automatizace naplno. A to vše snadno, rychle a zdarma.</value>
+  </data>
 </root>

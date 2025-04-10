@@ -145,4 +145,10 @@
   <data name="CloseLauncherOnAPPStartMSG" xml:space="preserve">
     <value>打开其他应用程序时关闭启动器</value>
   </data>
+  <data name="codeapp" xml:space="preserve">
+    <value>生成您自己的区块链数据库源代码。可选择最多三种版本，以满足不同的需求。对加密货币感兴趣？创建属于您自己的币种，支持质押、交易手续费等高级功能！所有功能完全免费，只需几秒钟即可完成。目前数据库仅支持 MoveVM。</value>
+  </data>
+  <data name="tradingapp" xml:space="preserve">
+    <value>你对数字资产交易感兴趣吗？立即创建你自己的网格策略或DCA策略，并开始实时测试。我们专门优化的应用程序支持从入场参数到风险管理的全面自定义，让你能够根据自己的需求精细调整每一个细节。全面掌控交易流程，充分释放自动化的强大潜力。一切操作简单快捷，完全免费。</value>
+  </data>
 </root>

@@ -97,6 +97,9 @@ namespace LauncherFix
             lbl_ColorSchemeMain.Text = Properties.Resources.SelectColorSchemeMainMSG;
             lbl_SelectLanguage.Text = Properties.Resources.SelectLanguageMSG;
             btn_SettingsConfirm.Text = Properties.Resources.ConfirmMSG;
+            lbl_tradingsimulator.Text = Properties.Resources.tradingapp;
+            lbl_codegenerator.Text = Properties.Resources.codeapp;
+            btn_tradingsimulator.Text = Properties.Resources.Download;
 
         }
 

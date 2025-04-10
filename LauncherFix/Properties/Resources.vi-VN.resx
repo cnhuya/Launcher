@@ -145,4 +145,12 @@
   <data name="CloseLauncherOnAPPStartMSG" xml:space="preserve">
     <value>launchercloseonapplaunchVN</value>
   </data>
+  <data name="codeapp" xml:space="preserve">
+    <value>Khám phá một ứng dụng mạnh mẽ nhưng trực quan, được thiết kế để trao quyền cho bạn. Dễ dàng tạo các hợp đồng thông minh tiền điện tử tương thích với EVM, kèm theo các tính năng tùy chỉnh như phí chuyển khoản. Hoặc, bạn cũng có thể xây dựng cơ sở dữ liệu MoveVM on-chain của riêng mình cho nhiều ứng dụng khác nhau – từ quản lý dữ liệu cá nhân đến lưu trữ thông tin an toàn, phi tập trung ở mọi định dạng.</value>
+  </data>
+  <data name="tradingapp" xml:space="preserve">
+    <value>Bạn quan tâm đến giao dịch tài sản số? Hãy tự tạo chiến lược giao dịch Grid hoặc DCA của riêng bạn và bắt đầu thử nghiệm trực tiếp ngay lập tức. Ứng dụng của chúng tôi được tối ưu hóa đặc biệt để bạn có thể tùy chỉnh toàn bộ chiến lược — từ các tham số vào lệnh cho đến quản lý rủi ro. Nắm toàn quyền kiểm soát giao dịch của bạn và khai thác tối đa tiềm năng của tự động hóa. Tất cả đều đơn giản, nhanh chóng và hoàn toàn miễn phí.
+
+</value>
+  </data>
 </root>

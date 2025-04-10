@@ -145,4 +145,10 @@
   <data name="CloseLauncherOnAPPStartMSG" xml:space="preserve">
     <value>다른 앱을 켤 때 런처 끄기</value>
   </data>
+  <data name="codeapp" xml:space="preserve">
+    <value>당신을 위한 강력하면서도 직관적인 애플리케이션을 만나보세요. 전송 수수료와 같은 사용자 지정 기능이 포함된 EVM 호환 암호화폐 스마트 계약을 손쉽게 생성할 수 있습니다. 또는 개인 데이터 관리부터 안전하고 분산된 모든 형태의 정보 저장에 이르기까지 다양한 용도로 온체인 MoveVM 데이터베이스를 구축해보세요.</value>
+  </data>
+  <data name="tradingapp" xml:space="preserve">
+    <value>디지털 자산 거래에 관심 있으신가요? 지금 바로 나만의 그리드 전략이나 DCA 전략을 만들어 실시간 테스트를 시작해보세요. 우리 앱은 입장 조건부터 리스크 관리까지 전략의 모든 요소를 자유롭게 설정할 수 있도록 최적화되어 있습니다. 거래에 대한 완벽한 제어권을 갖고 자동화의 잠재력을 최대한 활용해보세요. 이 모든 것이 쉽고 빠르며, 완전히 무료입니다.</value>
+  </data>
 </root>

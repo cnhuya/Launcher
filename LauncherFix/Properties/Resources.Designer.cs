@@ -80,6 +80,15 @@ namespace LauncherFix.Properties {
         }
         
         /// <summary>
+        ///   Vyhledá lokalizovaný řetězec podobný Discover a powerful yet intuitive application designed to empower you. Effortlessly generate EVM-compatible cryptocurrency smart contracts, complete with customizable features like transfer fees. Alternatively, build your own on-chain MoveVM databases for diverse applications, from personal data management to secure, decentralized storage of any type of information..
+        /// </summary>
+        internal static string codeapp {
+            get {
+                return ResourceManager.GetString("codeapp", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Vyhledá lokalizovaný řetězec podobný Confirm.
         /// </summary>
         internal static string ConfirmMSG {
@@ -140,6 +149,15 @@ namespace LauncherFix.Properties {
         internal static string Settings {
             get {
                 return ResourceManager.GetString("Settings", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Vyhledá lokalizovaný řetězec podobný Interested in trading digital assets? Create your own Grid or DCA trading strategy and start live-testing it immediately. Our specially optimized platform allows for full customization — from entry parameters to risk management — so you can tailor every detail to your needs. Take full control of your trades and unlock the full potential of automation. All of this is easy, fast, and completely free..
+        /// </summary>
+        internal static string tradingapp {
+            get {
+                return ResourceManager.GetString("tradingapp", resourceCulture);
             }
         }
     }

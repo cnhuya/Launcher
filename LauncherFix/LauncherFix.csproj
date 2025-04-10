@@ -61,9 +61,13 @@
     <SignManifests>true</SignManifests>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="cnsl, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\ddl\cnsl.dll</HintPath>
+    </Reference>
     <Reference Include="ContractGenerator, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\ContractGenerator\ContractGenerator\bin\Debug\ContractGenerator.dll</HintPath>
+      <HintPath>..\ddl\ContractGenerator.dll</HintPath>
     </Reference>
     <Reference Include="fxHoverButton">
       <HintPath>..\..\..\..\Desktop\maturita\projekt\dll\fxHoverButton\fxHoverButton\bin\Debug\fxHoverButton.dll</HintPath>
