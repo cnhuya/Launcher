@@ -67,7 +67,7 @@
     </Reference>
     <Reference Include="ContractGenerator, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\ddl\ContractGenerator.dll</HintPath>
+      <HintPath>..\ddl\contractgenerator\ContractGenerator.dll</HintPath>
     </Reference>
     <Reference Include="fxHoverButton">
       <HintPath>..\..\..\..\Desktop\maturita\projekt\dll\fxHoverButton\fxHoverButton\bin\Debug\fxHoverButton.dll</HintPath>
@@ -119,7 +119,7 @@
     <Reference Include="System.Xml" />
     <Reference Include="trading simulator, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\ddl\trading simulator.dll</HintPath>
+      <HintPath>..\ddl\tradingsimulator\trading simulator.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
