@@ -1,4 +1,4 @@
-# LauncherFix
+# Launcher
 Known issues
 - User first needs to save settings...
 
