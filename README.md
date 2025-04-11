@@ -18,3 +18,9 @@ Cnsl source code
 
 Movable Form source code
 - https://github.com/cnhuya/MovableForm
+
+Server source code
+- https://github.com/cnhuya/oracle/tree/master/project
+
+Modules source code
+- https://github.com/cnhuya/Modules
