@@ -1,8 +1,7 @@
 # Launcher
 Dependencies
-- Cryptoexchange (4.4.1)
-- Bybit (8.8.0)
-- Newtonsoft.Json (13.0.3)
+- Cryptoexchange.net (8.8.0)
+- Bybit.net (4.4.1)
 
 Website
 -
