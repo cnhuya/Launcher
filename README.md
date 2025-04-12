@@ -1,7 +1,7 @@
 # Launcher
 Dependencies
-- Cryptoexchange.net (8.8.0)
-- Bybit.net (4.4.1)
+- Cryptoexchange.net - https://github.com/JKorf/CryptoExchange.Net (8.8.0)
+- Bybit.net - https://github.com/JKorf/Bybit.Net (4.4.1)
 
 Website
 -
