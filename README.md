@@ -1,15 +1,16 @@
 # Launcher
-Dependencies
+# Dependencies
 - Cryptoexchange.net - https://github.com/JKorf/CryptoExchange.Net (8.8.0)
 - Bybit.net - https://github.com/JKorf/Bybit.Net (4.4.1)
+
+# Known issues
+- User first needs to kind of save settings...
+- When going to GRID from DCA, DCA panel is still visible and doesnt hide so it overwrites GRID settings...
+- Trading results do not reset when going from DCA to GRID and vice versa, so user needs to restart the whole applicatio
 
 Website
 - https://github.com/cnhuya/website
 
-Known issues
-- User first needs to kind of save settings...
-- When going to GRID from DCA, DCA panel is still visible and doesnt hide so it overwrites GRID settings...
-- Trading results do not reset when going from DCA to GRID and vice versa, so user needs to restart the whole applicatio
 
 Code Generator source code
 - https://github.com/cnhuya/ContractGenerator
