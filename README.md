@@ -4,7 +4,7 @@ Dependencies
 - Bybit.net - https://github.com/JKorf/Bybit.Net (4.4.1)
 
 Website
--
+- https://github.com/cnhuya/website
 
 Known issues
 - User first needs to save settings...
