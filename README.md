@@ -10,6 +10,10 @@
 - When going to GRID from DCA, DCA panel is still visible and doesnt hide so it overwrites GRID settings...
 - Trading results do not reset when going from DCA to GRID and vice versa, so user needs to restart the whole application
 
+
+  ❗ Interval is set in seconds, and its not precise because its asynchronous method so it waits for response from Bybit API which can have some delay, take that in mind please.
+
+
 ### CODE GENERATOR
 - Staking function is not programmed correctly, it now sets the staked balance to 0 even tho user doesnt not withdraw all his staked tokens.
 
