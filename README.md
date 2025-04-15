@@ -11,7 +11,7 @@
 - Trading results do not reset when going from DCA to GRID and vice versa, so user needs to restart the whole application
 
 
-  ❗ Interval is set in seconds, and its not precise because its asynchronous method so it waits for response from Bybit API which can have some delay, take that in mind please.
+  ❗ Interval is set in seconds, and its not 100% precise because its asynchronous method so it waits for response from Bybit API which can have some delay, take that in mind please.
 
 
 ### CODE GENERATOR
