@@ -10,7 +10,7 @@
 - When going to GRID from DCA, DCA panel is still visible and doesnt hide so it overwrites GRID settings...
 - Trading results do not reset when going from DCA to GRID and vice versa, so user needs to restart the whole application
 
-### SMART CONTRACT GENERATOR
+### CODE GENERATOR
 - Staking function is not programmed correctly, it now sets the staked balance to 0 even tho user doesnt not withdraw all his staked tokens.
 
 
